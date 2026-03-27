@@ -1,0 +1,5 @@
+{
+  "name": "JobApply AI",
+  "description": "Send personalized job applications with resume attachments to a list of email addresses.",
+  "requestFramePermissions": []
+}
